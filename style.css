@@ -6,7 +6,7 @@
     font-family:sans-serif;
 }
 body{
-    height: 180vh;
+    height: 380vh;
     background-image: url(blur.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -396,7 +396,7 @@ body{
     
 .section1{
     flex-direction: column;
-    height: 80vh;
+    height: 75vh;
 }
 .section2{
     margin-top: 100px;
@@ -474,8 +474,8 @@ footer{
 }
 
 body{
-    border: solid;
-    height: 350vh;
+    border: none;
+    height: 330vh;
 }   
 
 
